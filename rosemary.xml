@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest>
-  <project name="Cristianlp2/android_device_redmi_rosemary-corvus-thirteen" revision="main" path="device/redmi/rosemary" remote="github" />
+  <project name="Cristianlp2/android_device_redmi_rosemary-arrow-thirteen" revision="main" path="device/redmi/rosemary" remote="github" />
   <project name="windowz414/android_device_redmi_rosemary-firmware" revision="eleven" path="device/redmi/rosemary-firmware" remote="github" />
   <project name="windowz414/android_kernel_redmi_rosemary" revision="lineage-20.0" path="kernel/redmi/rosemary" remote="github" />
   <project name="windowz414/android_vendor_redmi_rosemary" revision="lineage-19.1" path="vendor/redmi/rosemary" remote="github" />
