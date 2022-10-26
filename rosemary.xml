@@ -5,7 +5,6 @@
   <project name="windowz414/android_kernel_redmi_rosemary" revision="lineage-20.0" path="kernel/redmi/rosemary" remote="github" />
   <project name="windowz414/android_vendor_redmi_rosemary" revision="lineage-19.1" path="vendor/redmi/rosemary" remote="github" />
   <project name="PixelExperience/device_mediatek_common" revision="thirteen" path="device/mediatek/common" remote="github" />
-  <project name="PixelExperience/device_mediatek_sepolicy_vndr" revision="thirteen" path="device/mediatek/sepolicy_vndr" remote="github" />
   <project name="Woomymy/vendor_mediatek_interfaces" revision="twelve" path="vendor/mediatek/interfaces" remote="github" />
   <project name="PixelExperience/vendor_mediatek-opensource" revision="thirteen" path="vendor/mediatek/opensource" remote="github" />
   <project name="windowz414/lineage_hardware_xiaomi" revision="lineage-20.0" path="hardware/xiaomi" remote="github" />
