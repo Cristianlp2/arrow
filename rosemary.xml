@@ -8,5 +8,4 @@
   <project name="Woomymy/vendor_mediatek_interfaces" revision="twelve" path="vendor/mediatek/interfaces" remote="github" />
   <project name="PixelExperience/device_mediatek_common" revision="twelve" path="device/mediatek/common" remote="github" />
   <project name="PixelExperience/device_mediatek_sepolicy_vndr" revision="twelve" path="device/mediatek/sepolicy_vndr" remote="github" />
-  <project name="windowz414/kscope_hardware_xiaomi" revision="sunflowerleaf" path="hardware/xiaomi" remote="github" />
 </manifest>
