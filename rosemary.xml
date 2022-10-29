@@ -3,7 +3,7 @@
   <project name="windowz414/android_device_redmi_rosemary" revision="pixelexperience/twelve" path="device/redmi/rosemary" remote="github" />
   <project name="windowz414/android_kernel_redmi_rosemary" revision="lineage-19.1" path="kernel/redmi/rosemary" remote="github" />
   <project name="windowz414/android_device_redmi_rosemary-firmware" revision="eleven" path="device/redmi/rosemary-firmware" remote="github" />
-  <project name="PixelExperience/vendor_mediatek-opensource" revision="lineage-19.1" path="vendor/redmi/rosemary" remote="github" />
+  <project name="PixelExperience/vendor_mediatek-opensource" revision="twelve" path="vendor/redmi/rosemary" remote="github" />
   <project name="Woomymy/vendor_mediatek_interfaces" revision="twelve" path="vendor/mediatek/interfaces" remote="github" />
   <project name="PixelExperience/device_mediatek_common" revision="twelve" path="device/mediatek/common" remote="github" />
   <project name="PixelExperience/device_mediatek_sepolicy_vndr" revision="twelve" path="device/mediatek/sepolicy_vndr" remote="github" />
