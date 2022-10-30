@@ -2,7 +2,7 @@
 <manifest>
   <project name="Cristianlp2/android_device_redmi_rosemary-arrow-thirteen" revision="main" path="device/redmi/rosemary" remote="github" />
   <project name="windowz414/android_vendor_redmi_rosemary" revision="twelve" path="vendor/redmi/rosemary" remote="github" />
-  <project name="windowz414/android_kernel_redmi_rosemary" revision="twelve" path="kernel/redmi/rosemary" remote="github" />
+  <project name="windowz414/android_kernel_redmi_rosemary" revision="lineage-19.1" path="kernel/redmi/rosemary" remote="github" />
   <project name="windowz414/android_device_redmi_rosemary-firmware" revision="eleven" path="device/redmi/rosemary-firmware" remote="github" />
   <project name="PixelExperience/vendor_mediatek-opensource" revision="twelve" path="vendor/mediatek/opensource" remote="github" />
   <project name="Woomymy/vendor_mediatek_interfaces" revision="twelve" path="vendor/mediatek/interfaces" remote="github" />
