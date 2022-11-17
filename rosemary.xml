@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest>
-  <project name="windowz414-archive/android_device_redmi_rosemary" revision="lineage-19.1" path="device/redmi/rosemary" remote="github" />
-  <project name="windowz414/android_vendor_redmi_rosemary" revision="lineage-19.1" path="vendor/redmi/rosemary" remote="github" />
-  <project name="windowz414/android_kernel_redmi_rosemary" revision="lineage-19.1" path="kernel/redmi/rosemary" remote="github" />
-  <project name="windowz414/android_device_redmi_rosemary-firmware" revision="eleven" path="device/redmi/rosemary-firmware" remote="github" />
-  <project name="PixelExperience/vendor_mediatek-opensource" revision="twelve" path="vendor/mediatek/opensource" remote="github" />
-  <project name="Woomymy/vendor_mediatek_interfaces" revision="twelve" path="vendor/mediatek/interfaces" remote="github" />
-  <project name="PixelExperience/device_mediatek_common" revision="twelve" path="device/mediatek/common" remote="github" />
-  <project name="PixelExperience/device_mediatek_sepolicy_vndr" revision="twelve" path="device/mediatek/sepolicy_vndr" remote="github" />
+  <project name="windowz414/device_redmi_rosemary" revision="thirteen" path="device/redmi/rosemary" remote="github" />
+  <project name="windowz414-archive/android_device_redmi_rosemary-firmware" revision="eleven" path="device/redmi/rosemary-firmware" remote="github" />
+  <project name="windowz414-archive/android_kernel_redmi_rosemary" revision="lineage-20.0" path="kernel/redmi/rosemary" remote="github" />
+  <project name="windowz414-archive/android_vendor_redmi_rosemary" revision="lineage-19.1" path="vendor/redmi/rosemary" remote="github" />
+  <project name="PixelExperience/device_mediatek_common" revision="thirteen" path="device/mediatek/common" remote="github" />
+  <project name="PixelExperience/device_mediatek_sepolicy_vndr" revision="thirteen" path="device/mediatek/sepolicy_vndr" remote="github" />
+  <project name="PixelExperience/vendor_mediatek_interfaces" revision="thirteen" path="vendor/mediatek/interfaces" remote="github" />
+  <project name="PixelExperience/vendor_mediatek-opensource" revision="thirteen" path="vendor/mediatek/opensource" remote="github" />
   <project name="windowz414-archive/lineage_hardware_xiaomi" revision="lineage-20.0" path="hardware/xiaomi" remote="github" />
+  <project name="PixelBoot/android_prebuilts_clang_host_linux-x86_clang-r416183b1" revision="master" path="prebuilts/clang/host/linux-x86/clang-r416183b1" clone-depth="1" remote="github" />
 </manifest>
