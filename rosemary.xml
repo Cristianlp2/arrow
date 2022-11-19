@@ -2,7 +2,7 @@
 <manifest>
   <project name="PixelExperience-Devices/device_redmi_rosemary" revision="thirteen" path="device/redmi/rosemary" remote="github" />
   <project name="vendor_redmi_rosemary-firmware" revision="thirteen" path="device/redmi/rosemary-firmware" remote="pixel-devices-blobs" />
-  <project name="PixelExperience-Devices/kernel_redmi_rosemary" revision="thirteen" path="kernel/redmi/rosemary" remote="github" />
+  <project name="windowz414-archive/android_kernel_redmi_rosemary" revision="lineage-20.0" path="kernel/redmi/rosemary" remote="github" />
   <project name="vendor_redmi_rosemary" revision="thirteen" path="vendor/redmi/rosemary" remote="pixel-devices-blobs" />
   <project name="PixelExperience/device_mediatek_common" revision="thirteen" path="device/mediatek/common" remote="github" />
   <project name="PixelExperience/device_mediatek_sepolicy_vndr" revision="thirteen" path="device/mediatek/sepolicy_vndr" remote="github" />
