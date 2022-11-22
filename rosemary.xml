@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest>
-  <project name="PixelExperience-Devices/device_redmi_rosemary" revision="thirteen" path="device/redmi/rosemary" remote="github" />
+<manifest> 
   <project name="vendor_redmi_rosemary-firmware" revision="thirteen" path="device/redmi/rosemary-firmware" remote="pixel-devices-blobs" />
   <project name="windowz414-archive/android_kernel_redmi_rosemary" revision="lineage-20.0" path="kernel/redmi/rosemary" remote="github" />
   <project name="vendor_redmi_rosemary" revision="thirteen" path="vendor/redmi/rosemary" remote="pixel-devices-blobs" />
